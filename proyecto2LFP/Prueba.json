@@ -1,0 +1,349 @@
+{
+    "Inicio": {
+        "Encabezado": {
+            "TituloPagina": "Ejemplo titulo"
+        },
+        "Cuerpo": [
+            {
+                "Texto": {
+                    "fuente": "Arial",
+                    "color": "azul",
+                    "tamaño": "11",
+                    "estilo": "normal"
+                }
+            },
+            {
+                "Cursiva": {
+                    "texto": "Este es un texto en cursiva.",
+                    "color": "azul"
+                }
+            },
+            {
+                "Fondo": {
+                    "color": "#FFA07A"
+                }
+            },
+            {
+                "Tachado": {
+                    "texto": "Este es un texto tachado.",
+                    "color": "rojo"
+                }
+            },
+            {
+                "Subrayado": {
+                    "texto": "Este es un texto subrayado.",
+                    "color": "verde"
+                }
+            },
+            {
+                "Negrita": {
+                    "texto": "Este es un texto en negrita.",
+                    "color": "negro"
+                }
+            },
+            {
+                "Codigo": {
+                    "texto": "Muestra el texto con fuente de código de ordenador.",
+                    "posicion": "centro",
+                    "color": "gris",
+                    "tamaño": "12"
+                }
+            },
+            {
+                "Texto": {
+                    "fuente": "Arial",
+                    "color": "azul",
+                    "tamaño": "11",
+                    "estilo": "normal"
+                }
+            },
+            {
+                "Parrafo": {
+                    "texto": "Este es un párrafo de ejemplo.",
+                    "posicion": "izquierda",
+                    "color": "verde",
+                    "tamaño": "t2"
+                }
+            },
+            {
+                "Titulo": {
+                    "texto": "Este es un título",
+                    "posicion": "centro",
+                    "tamaño": "t1",
+                    "color": "rojo"
+                }
+            },
+            {
+                "Tachado": {
+                    "texto": "Otro texto tachado.",
+                    "color": "azul"
+                }
+            },
+            {
+                "Subrayado": {
+                    "texto": "Otro texto subrayado.",
+                    "color": "verde"
+                }
+            },
+            {
+                "Negrita": {
+                    "texto": "Otro texto en negrita.",
+                    "color": "negro"
+                }
+            },
+            {
+                "Codigo": {
+                    "texto": "Otro texto con fuente de código.",
+                    "posicion": "derecha",
+                    "color": "gris",
+                    "tamaño": "14"
+                }
+            },
+            {
+                "Texto": {
+                    "fuente": "Verdana",
+                    "color": "verde",
+                    "tamaño": "12",
+                    "estilo": "negrita"
+                }
+            },
+            {
+                "Parrafo": {
+                    "texto": "Otro párrafo.",
+                    "posicion": "centro",
+                    "color": "azul",
+                    "tamaño": "t3"
+                }
+            },
+            {
+                "Titulo": {
+                    "texto": "Otro título",
+                    "posicion": "derecha",
+                    "tamaño": "t2",
+                    "color": "verde"
+                }
+            },
+            {
+                "Cursiva": {
+                    "texto": "Otro texto en cursiva.",
+                    "color": "rojo"
+                }
+            },
+            {
+                "Tachado": {
+                    "texto": "Otro texto tachado.",
+                    "color": "azul"
+                }
+            },
+            {
+                "Subrayado": {
+                    "texto": "Otro texto subrayado.",
+                    "color": "verde"
+                }
+            },
+            {
+                "Codigo": {
+                    "texto": "Otro texto con fuente de código.",
+                    "posicion": "izquierda",
+                    "color": "gris",
+                    "tamaño": "16"
+                }
+            },
+            {
+                "Texto": {
+                    "fuente": "Courier New",
+                    "color": "rojo",
+                    "tamaño": "14",
+                    "estilo": "cursiva"
+                }
+            },
+            {
+                "Parrafo": {
+                    "texto": "Otro párrafo.",
+                    "posicion": "derecha",
+                    "color": "rojo",
+                    "tamaño": "t4"
+                }
+            },
+            {
+                "Texto": {
+                    "fuente": "Arial",
+                    "color": "azul",
+                    "tamaño": "11",
+                    "estilo": "normal"
+                }
+            },
+            {
+                "Cursiva": {
+                    "texto": "Este es un texto en cursiva.",
+                    "color": "azul"
+                }
+            },
+            {
+                "Fondo": {
+                    "color": "#FFA07A"
+                }
+            },
+            {
+                "Tachado": {
+                    "texto": "Este es un texto tachado.",
+                    "color": "rojo"
+                }
+            },
+            {
+                "Subrayado": {
+                    "texto": "Este es un texto subrayado.",
+                    "color": "verde"
+                }
+            },
+            {
+                "Negrita": {
+                    "texto": "Este es un texto en negrita.",
+                    "color": "negro"
+                }
+            },
+            {
+                "Codigo": {
+                    "texto": "Muestra el texto con fuente de código de ordenador.",
+                    "posicion": "centro",
+                    "color": "gris",
+                    "tamaño": "12"
+                }
+            },
+            {
+                "Texto": {
+                    "fuente": "Arial",
+                    "color": "azul",
+                    "tamaño": "11",
+                    "estilo": "normal"
+                }
+            },
+            {
+                "Parrafo": {
+                    "texto": "Este es un párrafo de ejemplo.",
+                    "posicion": "izquierda",
+                    "color": "verde",
+                    "tamaño": "t2"
+                }
+            },
+            {
+                "Titulo": {
+                    "texto": "Este es un título",
+                    "posicion": "centro",
+                    "tamaño": "t1",
+                    "color": "rojo"
+                }
+            },
+            {
+                "Tachado": {
+                    "texto": "Otro texto tachado.",
+                    "color": "azul"
+                }
+            },
+            {
+                "Subrayado": {
+                    "texto": "Otro texto subrayado.",
+                    "color": "verde"
+                }
+            },
+            {
+                "Negrita": {
+                    "texto": "Otro texto en negrita.",
+                    "color": "negro"
+                }
+            },
+            {
+                "Codigo": {
+                    "texto": "Otro texto con fuente de código.",
+                    "posicion": "derecha",
+                    "color": "gris",
+                    "tamaño": "14"
+                }
+            },
+            {
+                "Texto": {
+                    "fuente": "Verdana",
+                    "color": "verde",
+                    "tamaño": "12",
+                    "estilo": "negrita"
+                }
+            },
+            {
+                "Parrafo": {
+                    "texto": "Otro párrafo.",
+                    "posicion": "centro",
+                    "color": "azul",
+                    "tamaño": "t3"
+                }
+            },
+            {
+                "Titulo": {
+                    "texto": "Otro título",
+                    "posicion": "derecha",
+                    "tamaño": "t2",
+                    "color": "verde"
+                }
+            },
+            {
+                "Cursiva": {
+                    "texto": "Otro texto en cursiva.",
+                    "color": "rojo"
+                }
+            },
+            {
+                "Tachado": {
+                    "texto": "Otro texto tachado.",
+                    "color": "azul"
+                }
+            },
+            {
+                "Subrayado": {
+                    "texto": "Otro texto subrayado.",
+                    "color": "verde"
+                }
+            },
+            {
+                "Codigo": {
+                    "texto": "Otro texto con fuente de código.",
+                    "posicion": "izquierda",
+                    "color": "gris",
+                    "tamaño": "16"
+                }
+            },
+            {
+                "Texto": {
+                    "fuente": "Courier New",
+                    "color": "rojo",
+                    "tamaño": "14",
+                    "estilo": "cursiva"
+                }
+            },
+            {
+                "Parrafo": {
+                    "texto": "Otro párrafo.",
+                    "posicion": "derecha",
+                    "color": "rojo",
+                    "tamaño": "t4"
+                }
+            },
+            {
+                "Tabla": {
+                    "filas": "5",
+                    "columnas": "2",
+                    "elemento": [
+                        {"fila": "1", "columna": "1", "texto": "Petén"},
+                        {"fila": "1", "columna": "2", "texto": "Pepián"},
+                        {"fila": "2", "columna": "1", "texto": "Quetzaltenango"},
+                        {"fila": "2", "columna": "2", "texto": "Kaq Ik"},
+                        {"fila": "3", "columna": "1", "texto": "Sololá"},
+                        {"fila": "3", "columna": "2", "texto": "Tostadas con guacamole"},
+                        {"fila": "4", "columna": "1", "texto": "Antigua Guatemala"},
+                        {"fila": "4", "columna": "2", "texto": "Paches"},
+                        {"fila": "5", "columna": "1", "texto": "Izabal"},
+                        {"fila": "5", "columna": "2", "texto": "Tapado"}
+                    ]
+                }
+            }
+        ]
+    }
+}
